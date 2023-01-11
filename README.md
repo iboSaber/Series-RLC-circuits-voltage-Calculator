@@ -36,8 +36,7 @@ This program Calculates the Voltage variation _**`V(t)`**_ with respect to time 
 
 <br /> <br /> <br /> <br />
 
-> **Then dpending on the respond of the circuit the code will excute one of the folllowing cases :**
-> <br /> <br />
+> **Then dpending on the respond of the circuit the code will excute one of the folllowing cases :** > <br /> <br />
 
 <br />
 
@@ -80,3 +79,13 @@ This program Calculates the Voltage variation _**`V(t)`**_ with respect to time 
 # Flowchart
 
 ![Akış Şeması 2 drawio](https://user-images.githubusercontent.com/112458142/211697847-23652435-704b-49f2-bda9-0a04bbf82823.png)
+
+# Simulation obtained from the code excution
+
+<img align="right" width="1000" height="450" src="https://user-images.githubusercontent.com/112458142/211703061-73d28bb3-77b0-4f6c-bd06-094a22b173f5.png">
+<br /> <br /> <br /> <br /> <br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+<img align="right" width="1000" height="450" src="https://user-images.githubusercontent.com/112458142/211703069-1482f14d-61e6-4ad3-af75-106a79e7cef3.png">
+<br /> <br /> <br /> <br /> <br /> <br /><br /> <br /><br /> <br /><br /> <br /><br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+<img align="right" width="1000" height="450" src="https://user-images.githubusercontent.com/112458142/211702981-fefaac78-fa4a-4126-ab8a-efa631939ce9.png">
